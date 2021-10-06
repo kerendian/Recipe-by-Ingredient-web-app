@@ -1,7 +1,7 @@
 # Recipe-by-Ingredient
 ## The idea
 
- A food recipe web application using react
+ A food recipe web application using react.
 
 ## Description
 
@@ -12,7 +12,7 @@ For each ingredient in the search, 10 recipes will be displayed on the site, inc
 
 ## Technologies in use
 
-- Fetch data from an api with react
-- useState and useEffect 
-- Pass down data in react with props
-- Website design in CSS
+- Fetch data from an api with react.
+- useState and useEffect.
+- Pass down data in react with props.
+- Website design in CSS.
