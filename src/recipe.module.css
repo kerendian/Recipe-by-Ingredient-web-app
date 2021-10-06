@@ -1,0 +1,30 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 10px 5px 30px rgb(255, 139, 61);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgb(162, 194, 111) transparent;
+    align-items: center;
+    min-width: 40%;
+}
+
+.image{
+   
+    width: 300px;
+    height: 300px;
+}
+
+.title{
+    color: rgb(255, 139, 61);
+    font-family: 'Mali', cursive;
+}
+
+.calo{
+    font-size: 16px;
+}
+
+.ingre{
+
+}
